@@ -112,7 +112,7 @@ Aí vão eles!
 
 ### 2.1. Trema e Fonemas Alternativos
 
-Algumas vogais (e dígrafos vocálicos) no inglês assumem comunmente _fonemas alternativos_. Com “alternativos”, queremos dizer fonemas diferentes daqueles com os quais tais grafemas estão associados com mais frequência.
+Algumas vogais (e dígrafos vocálicos) no inglês assumem comummente _fonemas alternativos_. Com “alternativos”, queremos dizer fonemas diferentes daqueles com os quais tais grafemas estão associados com mais frequência.
 
 Confira abaixo a relação entre os grafemas com trema e seus respectivos fonemas na Ortografia PI:
 
