@@ -8,9 +8,33 @@
 
 _Experiencie o PI_ e conheça mais sobre o projeto no site **[www.thepimethod.org](https://www.thepimethod.org)**.
 
+## Sumário
+
+1. Introdução
+
+    1.1. Os Acentos no PI
+    
+2. Acentos Vocálicos
+
+    2.1. Trema e Fonemas Alternativos
+    
+    2.2. Neutralização
+    
+        2.2.1. Neutralização Tônica
+        
+        2.2.2. Neutralização Átona
+        
+3. Acentos Consonantais _(pendente)_
+
+4. Fonemas do Inglês _(pendente)_
+
+    4.1. Fonemas Vocálicos _(pendente)_
+    
+    4.2. Fonemas Consonantais _(pendente)_
+
 ## 1. Introdução
 
-O inglês possui uma **fonologia complexa** (com um elevado número de fonemas vocálicos) e uma **ortografia bastante irregular**. Essa combinação torna difícil a vida do aluno do inglês, principalmente nos estágios iniciais do aprendizado, pois acaba sendo difícil e moroso assimilar tantos fonemas/sons complexos quando nem a ortografia cumpre seu papel em destacar a correta pronúncia das palavras.
+O inglês possui uma **fonologia complexa** (com um elevado número de fonemas vocálicos) e uma **ortografia bastante irregular**. Essa combinação torna difícil a vida do aluno do inglês, principalmente nos estágios iniciais do aprendizado, pois acaba sendo desafiante assimilar tantos fonemas/sons complexos quando nem a ortografia cumpre seu papel em destacar a correta pronúncia das palavras.
 
 Praticamente todos os idiomas ocidentais possuem uma correlação grafia-som mais confiável que a do inglês. Isso se deve ao fato de que, enquanto a pronúncia desse idioma _evoluiu e mutacionou_ consideravelmente com o passar dos séculos, sua ortografia permaneceu _bastante estagnada_, não refletindo mais a pronúncia moderna para uma vasta quantidade de palavras, incluindo diversas palavras do dia-a-dia.
 
@@ -28,6 +52,10 @@ Aí vão eles!
 
 ## 2. Acentos Vocálicos
 
+Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica**, os de **Distinção Fonêmica** e os de **Redução/Elisão**.
+
+> **Nota:** Caso sinta a necessidade, confira na sessão X.X os _fonemas vocálicos_ do inglês (de acordo com a nomenclatura PI). Nessa sessão (e em todo Método PI) fazemos menção a tais fonemas sempre usando colchetes ao redor do nome — por ex., [e-longo], [i-curto] e [“aw”].
+
 **Grupo 1 - Tônica:**
 
 1.1) o̖ : Agudo (Refletido)
@@ -36,7 +64,7 @@ Aí vão eles!
 
 > Prioridade Tônica: 3 (máxima)
 
-> Ex.: a̬b**o̖**ut, bė̬tw**e̖e**n
+> Ex.: a̬b**o̖u**t, bė̬tw**e̖e**n
 
 1.2) o̗ : Grave (Refletido)
 
@@ -71,6 +99,18 @@ Aí vão eles!
 > Para mais informações, vide sessão 2.1 (_Trema e Fonemas Alternativos_).
 
 > Prioridade Tônica: 2
+
+> Ex.: _Pendentes._
+
+2.4) aᷱ : “w” Acima
+
+> Indica que o “a” em questão sofre a influência de fonema vizinho e é pronunciado como [“aw”] (de “s**aw**” e “c**au**se”).
+
+> Também indica _sílaba tônica_.
+
+> Esse acento é _opcional_, estando presente apenas no _modo completo_ do PI. Isse é porque a pronúncia alterada pode ser inferida por letra(s) vizinha(s) — em geral “-l” ou “-ll”.
+
+> P
 
 > Ex.: _Pendentes._
 
@@ -122,25 +162,25 @@ Confira abaixo a relação entre os grafemas com trema e seus respectivos fonema
 
 > Ex.: f**ä**the͜r
 
-\- är, ärr ► [a-aberto rótico]* (de “part” e “large”)
+\- är, ärr ► [a-aberto rótico]* (de “p**ar**t” e “l**ar**ge”)
 
 > Ex.: **är**e¹, st**ärr**y
 
 > \* Ou [a-aberto] em sotaques não-róticos como o britânico (GB).
 
-\- äi, äy, ëi, ëy ► [i-longo] (de “I” e “write”)
+\- äi, äy, ëi, ëy ► [i-longo] (de “**I**” e “wr**i**_te_”)
 
 > Ex.: **äi**s̊le¹, **äy**e¹, h**ëi**ght, **ëy**e¹
 
-\- ï ► [e-longo] (de “see” e “sea”)
+\- ï ► [e-longo] (de “s**ee**” , “s**ea**” e “sc**e**_ne_”)
 
 > Ex.: ma̬c̈h**ï**ne¹
 
-\- ö, öu ► [“oo” longo] (de “lo͝ok” e “go͝od”)
+\- ö, öu ► [“oo” longo] (de “l**o͝o**k” e “g**o͝o**d”)
 
 > Ex.: d**ö**, y**öu**
 
-\- ü, ö̬ ► [“oo” curto] (de “too” e “sċho͞ol”)
+\- ü, ö̬ ► [“oo” curto] (de “t**oo**” e “sċh**o͞o**l”)
 
 > Ex.: p**ü**t, t**ö̬**
 
@@ -170,7 +210,7 @@ Quando a neutralização ocorre em sílaba tônica, pode resultar em um dos dois
 
   > Ex. (vogais simples + “r”): h**e͡r**, w**e͡r**e¹, f**ı͡r**st, w**o͡r**d, t**u͡r**n
   
-  > Ex. (diígrafos + “r”): **e͡ar**th, j**o͡ur**na̬l
+  > Ex. (dígrafos + “r”): **e͡ar**th, j**o͡ur**na̬l
     
 #### 2.2.2. Neutralização Átona
 
@@ -192,15 +232,27 @@ E quando a neutralização ocorre em sílaba átona, pode resultar em um dos doi
 
   > Ex. (dígrafos + “r”): cŏl**o͜ur**, ăma̬t**e͜ur**
 
-## 2. Acentos Consonantais
+## 3. Acentos Consonantais
+
+> _Sessão pendente._
+
+## 4. Fonemas do Inglês
+
+> _Sessão pendente._
+
+## 4.1 Fonemas Vocálicos
+
+> _Sessão pendente._
+
+## 4.2. Fonemas Consonantais
 
 > _Sessão pendente._
 
 ## Notas:
 
-¹ O “-e” final é mudo (não pronunciado).
+¹ O “-e” final é **mudo** (não pronunciado). Isso é um _padrão bastante regular_ no inglês.
 
-² Você sabia que a redução vocálica também é um fenômeno frequente, embora em menor grau, no _nosso português_? Temos a tendência de transformar (ou melhor dizendo, reduzir) o “-e” e “-o” de fim de palavra em “i” e “u” respectivamente. Por ex., “ele” e “carro”. No _português de Portugal_ esse fenômeno é ainda mais forte, justamente por se tratar de um dialeto com ritmo _mais tônico_ que o nosso.
+² Você sabia que a **redução vocálica** também é um fenômeno frequente, embora em menor grau, no _nosso português_? Temos a tendência de transformar (ou melhor dizendo, reduzir) o “-e” e “-o” de fim de palavra em “i” e “u” respectivamente. Por ex., “ele” e “carro”. No _português de Portugal_ esse fenômeno é ainda mais forte, justamente por se tratar de um dialeto com ritmo _mais tônico_ que o nosso.
 
 ---
 
