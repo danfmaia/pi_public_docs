@@ -54,7 +54,7 @@ Aí vão eles!
 
 Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica**, os de **Distinção Fonêmica** e os de **Redução/Elisão**.
 
-> **Nota:** Caso sinta a necessidade, confira na sessão X.X os _fonemas vocálicos_ do inglês (de acordo com a nomenclatura PI). Nessa sessão (e em todo Método PI) fazemos menção a tais fonemas sempre usando colchetes ao redor do nome — por ex., [e-longo], [i-curto] e [“aw”].
+> **Nota:** Caso sinta a necessidade, confira na sessão 4.1 os _fonemas vocálicos_ do inglês (de acordo com a nomenclatura PI). Nessa sessão (e em todo Método PI) fazemos menção a tais fonemas sempre usando colchetes ao redor do nome — por ex., [e-longo], [i-curto] e [“aw”].
 
 **Grupo 1 - Tônica:**
 
@@ -108,9 +108,7 @@ Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica*
 
 > Também indica _sílaba tônica_.
 
-> Esse acento é _opcional_, estando presente apenas no _modo completo_ do PI. Isse é porque a pronúncia alterada pode ser inferida por letra(s) vizinha(s) — em geral “-l” ou “-ll”.
-
-> P
+> Presente apenas no _modo completo_.
 
 > Ex.: _Pendentes._
 
@@ -119,6 +117,8 @@ Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica*
 3.1) ê | e͡a : Circunflexo e Circunflexo Longo
 
 > Indica **NEUTRALIZAÇÃO TÔNICA**. Também indica _sílaba tônica_.
+
+> O _modo moderado_ do PI omite esse acento em certas ocasiões.
 
 > Para mais informações, vide sessões 2.2 (_Neutralização_) e 2.2.1 (_Neutralização Tônica_).
 
@@ -130,6 +130,8 @@ Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica*
 
 > Indica **neutralização átona**.
 
+> O _modo moderado_ do PI _omite_ esse acento na maioria das ocasiões.
+
 > Para mais informações, vide sessões 2.2 (_Neutralização_) e 2.2.2 (_Neutralização Átona_).
 
 > Prioridade Tônica: -1 (átono)
@@ -139,6 +141,8 @@ Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica*
 3.3) ȯ : Ponto Acima
 
 > Indica **redução a [i-curto]**, ou seja, que a respectiva vogal é pronunciada como o “i” de “bit”. É usado apenas em vogais átonas (geralmente nas vogais “a”, “e” e “u” átonas).
+
+> O _modo moderado_ do PI sempre _omite_ esse acento para o “e”, mas sempre o _inclui_ para o “a” e o “u” (quando vem ao caso).
 
 > Prioridade Tônica: 0 (átono)
 
