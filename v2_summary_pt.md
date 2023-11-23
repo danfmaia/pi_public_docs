@@ -34,7 +34,7 @@ Aí vão eles!
 
 > Prioridade Tônica: 3 (máxima)
 
-> Ex.: _Pendente._
+> Ex.: _Pendentes._
 
 1.2) o̗ : Grave (Refletido)
 
@@ -42,7 +42,7 @@ Aí vão eles!
 
 > Prioridade Tônica: 1
 
-> Ex.: _Pendente._
+> Ex.: _Pendentes._
 
 **Grupo 2 - Distinção Fonêmica:**
 
@@ -52,7 +52,7 @@ Aí vão eles!
 
 > Prioridade Tônica: 2
 
-> Ex.: _Pendente._
+> Ex.: _Pendentes._
 
 2.2) ŏ | o͝o : Breve e Breve Duplo
 
@@ -60,7 +60,7 @@ Aí vão eles!
 
 > Prioridade Tônica: 2
 
-> Ex.: _Pendente._
+> Ex.: _Pendentes._
 
 2.3) ö : Trema
 
@@ -70,7 +70,7 @@ Aí vão eles!
 
 > Prioridade Tônica: 2
 
-> Ex.: _Pendente._
+> Ex.: _Pendentes._
 
 **Grupo 3 - Redução / Elisão:**
 
@@ -82,7 +82,7 @@ Aí vão eles!
 
 > Prioridade Tônica: 2
 
-> Ex.: _Pendente._
+> Ex.: _Pendentes._
 
 3.2) e̬ | o͜u : Circunflexo Refletido e Circ. Refl. Longo
 
@@ -92,7 +92,7 @@ Aí vão eles!
 
 > Prioridade Tônica: -1 (átono)
 
-> Ex.: _Pendente._
+> Ex.: _Pendentes._
 
 3.3) ȯ : Ponto Acima
 
@@ -100,7 +100,7 @@ Aí vão eles!
 
 > Prioridade Tônica: 0 (átono)
 
-> Ex.: _Pendente._
+> Ex.: _Pendentes._
 
 3.4) e̊ : Anel
 
@@ -108,7 +108,7 @@ Aí vão eles!
 
 > Prioridade Tônica: (não pronunciado)
 
-> Ex.: _Pendente._
+> Ex.: _Pendentes._
 
 ### 2.1. Trema e Fonemas Alternativos
 
