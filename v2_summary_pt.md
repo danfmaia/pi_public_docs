@@ -6,7 +6,7 @@
 
 > **Nota:** Esse é um _trabalho em andamento_. Estamos divulgando esse documento para fins de *coleta de feedback*. De antemão agradecemos então as suas _críticas e sugestões_!
 
-**_Experiencie o PI_ e conheça mais sobre o projeto no site [www.thepimethod.org](https://www.thepimethod.org).**
+_Experiencie o PI_ e conheça mais sobre o projeto no site **[www.thepimethod.org](https://www.thepimethod.org)**.
 
 ## 1. Introdução
 
@@ -98,7 +98,7 @@ Aí vão eles!
 
 3.3) ȯ : Ponto Acima
 
-> Indica **redução a [i-curto]**, ou seja, que a respectiva vogal é pronunciada como o “i” de “bit”. É usado apenas em vogais átonas, geralmente “a”, “e” e “u”.
+> Indica **redução a [i-curto]**, ou seja, que a respectiva vogal é pronunciada como o “i” de “bit”. É usado apenas em vogais átonas (geralmente nas vogais “a”, “e” e “u” átonas).
 
 > Prioridade Tônica: 0 (átono)
 
