@@ -6,6 +6,8 @@
 
 > **Nota:** Esse é um _trabalho em andamento_. Estamos divulgando esse documento para fins de *coleta de feedback*. De antemão agradecemos então as suas _críticas e sugestões_!
 
+**_Experiencie o PI_ e conheça mais sobre o projeto no site [www.thepimethod.org](https://www.thepimethod.org).**
+
 ## 1. Introdução
 
 O inglês possui uma **fonologia complexa** (com um elevado número de fonemas vocálicos) e uma **ortografia bastante irregular**. Essa combinação torna difícil a vida do aluno do inglês, principalmente nos estágios iniciais do aprendizado, pois acaba sendo difícil e moroso assimilar tantos fonemas/sons complexos quando nem a ortografia cumpre seu papel em destacar a correta pronúncia das palavras.
@@ -16,7 +18,7 @@ No entanto, nem tudo está perdido! A **Ortografia Didática Pho̬nĕtic Inglis
 
 ### 1.1. Os Acentos no PI
 
-A principal estratégia aplicada pelo PI é a **utilização de acentos** (também chamados de “diacríticos”) para resolver as diferentes irregularidades e inconsistências presentes na ortografia do idioma mais falado no mundo.
+A principal estratégia aplicada pelo PI é a **utilização de acentos** (também chamados de “diacríticos”) para resolver as _diferentes irregularidades e inconsistências_ presentes na ortografia do idioma mais falado no mundo.
 
 Nesse documento apresentamos brevemente os _principais acentos_ da Ortografia Didática PI (v2) e suas _finalidades_.
 
@@ -30,15 +32,15 @@ Aí vão eles!
 
 1.1) o̖ : Agudo (Refletido)
 
-> Indica SÍLABA **TÔNICA PRIMÁRIA**.
+> Indica **SÍLABA TÔNICA PRIMÁRIA**.
 
 > Prioridade Tônica: 3 (máxima)
 
-> Ex.: _Pendentes._
+> Ex.: a̬b**o̖**ut, bė̬tw**e̖e**n
 
 1.2) o̗ : Grave (Refletido)
 
-> Indica SÍLABA **TÔNICA SECUNDÁRIA**.
+> Indica **SÍLABA TÔNICA SECUNDÁRIA**.
 
 > Prioridade Tônica: 1
 
@@ -66,7 +68,7 @@ Aí vão eles!
 
 > Indica **FONEMA ALTERNATIVO** para a vogal ou dígrafo vocálico em questão. Também indica _sílaba tônica_.
 
-> Para mais informações, vide sessão _Trema e Fonemas Alternativos_.
+> Para mais informações, vide sessão 2.1 (_Trema e Fonemas Alternativos_).
 
 > Prioridade Tônica: 2
 
@@ -78,7 +80,7 @@ Aí vão eles!
 
 > Indica **NEUTRALIZAÇÃO TÔNICA**. Também indica _sílaba tônica_.
 
-> Para mais informações, vide sessões _Neutralização_ e _Neutralização Tônica_.
+> Para mais informações, vide sessões 2.2 (_Neutralização_) e 2.2.1 (_Neutralização Tônica_).
 
 > Prioridade Tônica: 2
 
@@ -88,7 +90,7 @@ Aí vão eles!
 
 > Indica **neutralização átona**.
 
-> Para mais informações, vide sessões _Neutralização_ e _Neutralização Átona_.
+> Para mais informações, vide sessões 2.2 (_Neutralização_) e 2.2.2 (_Neutralização Átona_).
 
 > Prioridade Tônica: -1 (átono)
 
@@ -118,33 +120,33 @@ Confira abaixo a relação entre os grafemas com trema e seus respectivos fonema
 
 \- ä ► [a-aberto] (“ah”)
 
-> Ex.: fäthe͜r
+> Ex.: f**ä**the͜r
 
 \- är, ärr ► [a-aberto rótico]* (de “part” e “large”)
 
-> Ex.: äre, stärry
+> Ex.: **är**e¹, st**ärr**y
 
 > \* Ou [a-aberto] em sotaques não-róticos como o britânico (GB).
 
 \- äi, äy, ëi, ëy ► [i-longo] (de “I” e “write”)
 
-> Ex.: äis̊le, äye, hëight, ëye
+> Ex.: **äi**s̊le¹, **äy**e¹, h**ëi**ght, **ëy**e¹
 
 \- ï ► [e-longo] (de “see” e “sea”)
 
-> Ex.: ma̬c̈hïne
+> Ex.: ma̬c̈h**ï**ne¹
 
 \- ö, öu ► [“oo” longo] (de “lo͝ok” e “go͝od”)
 
-> Ex.: dö, yöu
+> Ex.: d**ö**, y**öu**
 
 \- ü, ö̬ ► [“oo” curto] (de “too” e “sċho͞ol”)
 
-> Ex.: püt, tö̬
+> Ex.: p**ü**t, t**ö̬**
 
 ### 2.2. Neutralização
 
-O inglês é uma língua de **forte ritmo tônico**. Isso significa que é dada uma grande ênfase à sílaba tônica (ou às sílabas tônicas) de cada palavra. Tal _ênfase tônica_ é consideravelmente maior do que em idiomas de _ritmo mais silábico_ como o **português brasileiro**. Como consequência disso, as sílabas átonas no inglês frequentemente sofrem um fenômeno chamado **redução vocálica**¹.
+O inglês é uma língua de **forte ritmo tônico**. Isso significa que é dada uma grande ênfase à sílaba tônica (ou às sílabas tônicas) de cada palavra. Tal _ênfase tônica_ é consideravelmente maior do que em idiomas de _ritmo mais silábico_ como o **português brasileiro**. Como consequência disso, as sílabas átonas no inglês frequentemente sofrem um fenômeno chamado **redução vocálica**².
 
 Quando essa redução vocálica resulta em alguns fonemas específicos, chamamos esse processo (aqui no Método PI) de **neutralização**.
 
@@ -154,21 +156,21 @@ A neutralização pode ocorrer em sílabas tônicas (**neutralização tônica**
 
 Quando a neutralização ocorre em sílaba tônica, pode resultar em um dos dois fonemas abaixo:
 
-\- [u-curto] (também chamado de “vogal [neutra tônica]”) (de “but” e “up”)
+\- [u-curto] (também chamado de “vogal [neutra tônica]”) (de “b**ut**” e “**u**p”)
 
-  > É resultante da neutralização tônica em vogais _sem_ a influência do “r”.
+  > É resultante da neutralização tônica em vogais **_sem_ a influência do “r”**.
 
-  > Ex. (vogais simples): lôve, wâs, a̬mông
+  > Ex. (vogais simples): l**ô**ve¹, w**â**s, a̬m**ô**ng
   
-  > Ex. (dígrafos): do͡es, blo͡od, co͡untry
+  > Ex. (dígrafos): d**o͡e**s, bl**o͡o**d, c**o͡u**ntry
 
 \- vogal [neutra tônica rótica]
 
-  > É resultante da neutralização tônica em vogais _com_ a influência do “r”.
+  > É resultante da neutralização tônica em vogais **_com_ a influência do “r”**.
 
-  > Ex. (vogais simples + “r”): he͡r, we͡re, fı͡rst, wo͡rd, tu͡rn
+  > Ex. (vogais simples + “r”): h**e͡r**, w**e͡r**e¹, f**ı͡r**st, w**o͡r**d, t**u͡r**n
   
-  > Ex. (diígrafos + “r”): e͡arth, jo͡urna̬l
+  > Ex. (diígrafos + “r”): **e͡ar**th, j**o͡ur**na̬l
     
 #### 2.2.2. Neutralização Átona
 
@@ -176,19 +178,19 @@ E quando a neutralização ocorre em sílaba átona, pode resultar em um dos doi
 
 \- vogal [neutra átona] (também chamado de [schwa])
 
-  > É resultante da neutralização átona em vogais **sem** a influência do “r”.
+  > É resultante da neutralização átona em vogais **_sem_ a influência do “r”**.
   
-  > Ex. (vogais simples): wa̬s, o̬v, a̬bo̖ut, sente̬nce, ăni̬ma̬l, to̬da̖y, indu̬stry
+  > Ex. (vogais simples): w**a̬**s, **o̬**v, **a̬**bo̖ut, sent**e̬**nce, ăn**i̬**m**a̬**l, t**o̬**da̖y, ind**u̬**stry
   
-  > Ex. (dígrafos): mounta͜in, famo͜us
+  > Ex. (dígrafos): mount**a͜i**n, fam**o͜u**s
 
 \- vogal [neutra átona rótica]
 
-  > É resultante da neutralização átona em vogais **com** a influência do “r”.
+  > É resultante da neutralização átona em vogais **_com_ a influência do “r”**.
 
-  > Ex. (vogais simples + “r”): numbe͜r , pe͜rhaps, ĕne͜rgy, dolla͜r , marty͜r, colo͜r ,su͜rpri̖se
+  > Ex. (vogais simples + “r”): numb**e͜r** , p**e͜r**haps, ĕn**e͜r**gy, doll**a͜r** , mart**y͜r**, col**o͜r** ,s**u͜r**pri̖se¹
 
-  > Ex. (dígrafos + “r”): cŏlo͜ur, ăma̬te͜ur
+  > Ex. (dígrafos + “r”): cŏl**o͜ur**, ăma̬t**e͜ur**
 
 ## 2. Acentos Consonantais
 
@@ -196,7 +198,9 @@ E quando a neutralização ocorre em sílaba átona, pode resultar em um dos doi
 
 ## Notas:
 
-¹ Você sabia que a redução vocálica também é um fenômeno frequente, embora em menor grau, no _nosso português_? Temos a tendência de transformar (ou melhor dizendo, reduzir) o “-e” e “-o” de fim de palavra em “i” e “u” respectivamente. Por ex., “ele” e “carro”. No _português de Portugal_ esse fenômeno é ainda mais forte, justamente por se tratar de um dialeto com ritmo _mais tônico_ que o nosso.
+¹ O “-e” final é mudo (não pronunciado).
+
+² Você sabia que a redução vocálica também é um fenômeno frequente, embora em menor grau, no _nosso português_? Temos a tendência de transformar (ou melhor dizendo, reduzir) o “-e” e “-o” de fim de palavra em “i” e “u” respectivamente. Por ex., “ele” e “carro”. No _português de Portugal_ esse fenômeno é ainda mais forte, justamente por se tratar de um dialeto com ritmo _mais tônico_ que o nosso.
 
 ---
 
