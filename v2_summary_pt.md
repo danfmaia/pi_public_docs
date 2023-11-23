@@ -10,7 +10,7 @@
 
 O inglês possui uma **fonologia complexa** (com um elevado número de fonemas vocálicos) e uma **ortografia bastante irregular**. Essa combinação torna difícil a vida do aluno do inglês, principalmente nos estágios iniciais do aprendizado, pois acaba sendo difícil e moroso assimilar tantos fonemas/sons complexos quando nem a ortografia cumpre seu papel em destacar a correta pronúncia das palavras.
 
-Praticamente todos os idiomas ocidentais possuem uma correlação grafia-som mais confiável que a do inglês. Isso se deve porque, enquanto a pronúncia desse idioma _evoluiu e mutacionou_ consideravelmente com o passar dos séculos, sua ortografia permaneceu _bastante estagnada_, não refletindo mais a pronúncia moderna para uma vasta quantidade de palavras.
+Praticamente todos os idiomas ocidentais possuem uma correlação grafia-som mais confiável que a do inglês. Isso se deve ao fato de que, enquanto a pronúncia desse idioma _evoluiu e mutacionou_ consideravelmente com o passar dos séculos, sua ortografia permaneceu _bastante estagnada_, não refletindo mais a pronúncia moderna para uma vasta quantidade de palavras, incluindo diversas palavras do dia-a-dia.
 
 No entanto, nem tudo está perdido! A **Ortografia Didática Pho̬nĕtic Inglish (PI)** surgiu como uma inovadora alternativa para fazer a _conexão lógica entre a  ortografia e a pronúncia do inglês_, dois sistemas distintos que se desconectaram há centenas de anos.
 
