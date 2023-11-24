@@ -62,59 +62,65 @@ Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica*
 
 > Indica **SÍLABA TÔNICA PRIMÁRIA**.
 
+> É omitido quando desnecessário.
+
 > Prioridade Tônica: 3 (máxima)
 
-> Ex.: a̬b**o̖u**t, bė̬tw**e̖e**n
+> Ex.: un**ti̖l**, a̬**bo̖ut**
 
 1.2) o̗ : Grave (Refletido)
 
 > Indica **SÍLABA TÔNICA SECUNDÁRIA**.
 
+> É omitido quando desnecessário.
+
 > Prioridade Tônica: 1
 
-> Ex.: _Pendentes._
+> Ex.: **re̗p**rėse̖nt, sĕpa̬**ra̗te** _(when verb)_
 
 **Grupo 2 - Distinção Fonêmica:**
 
-2.1) ō | o͞o : Macron e Macron Duplo
+2.1) ō | o͞o : Macron (e Macron Duplo)
 
-> Indica pronúncia de **VOGAL LONGA** para a vogal ou dígrafo vocálico em questão. Também indica _sílaba tônica_.
+> Indica pronúncia de **VOGAL LONGA** para a vogal (ou dígrafo vocálico) em questão. Também indica _sílaba tônica_.
 
-> Prioridade Tônica: 2
-
-> Ex.: _Pendentes._
-
-2.2) ŏ | o͝o : Breve e Breve Duplo
-
-> Indica pronúncia de **VOGAL CURTA** para a vogal ou dígrafo vocálico em questão. Também indica _sílaba tônica_.
+> É omitido quando desnecessário.
 
 > Prioridade Tônica: 2
 
-> Ex.: _Pendentes._
+> Ex.: l**ī**ve¹, m**ō**st, **ēa**ch, sċh**o͞o**l
+
+2.2) ŏ | o͝o : Breve (e Breve Duplo)
+
+> Indica pronúncia de **VOGAL CURTA** para a vogal (ou dígrafo vocálico) em questão. Também indica _sílaba tônica_.
+
+> É omitido quando desnecessário.
+
+> Prioridade Tônica: 2
+
+> Ex.: l**ĭ**ve¹, h**ă**ve¹, r**ĕa**d, l**o͝o**k
 
 2.3) ö : Trema
 
-> Indica **FONEMA ALTERNATIVO** para a vogal ou dígrafo vocálico em questão. Também indica _sílaba tônica_.
+> Indica **FONEMA ALTERNATIVO** para a vogal (ou dígrafo vocálico) em questão. Também indica _sílaba tônica_.
 
 > Para mais informações, vide sessão 2.1 (_Trema e Fonemas Alternativos_).
 
 > Prioridade Tônica: 2
 
-> Ex.: _Pendentes._
+> Ex.: f**ä**the͜r, h**ëi**ght, ma̬c̈h**ï**ne¹, d**ö**, y**öu**, p**ü**t
 
 2.4) aᷱ : “w” Acima
 
-> Indica que o “a” em questão sofre a influência de fonema vizinho e é pronunciado como [“aw”] (de “s**aw**” e “c**au**se”).
-
-> Também indica _sílaba tônica_.
+> Indica que o “**a**” em questão sofre a influência de som vizinho e é **pronunciado como o fonema [“aw”]** (de “s**aw**” e “c**au**se”). Também indica _sílaba tônica_.
 
 > Presente apenas no _modo completo_.
 
-> Ex.: _Pendentes._
+> Ex.: **aᷱ**ll, **aᷱ**lso
 
 **Grupo 3 - Redução / Elisão:**
 
-3.1) ê | e͡a : Circunflexo e Circunflexo Longo
+3.1) ê | e͡a : Circunflexo (e Circunflexo Longo)
 
 > Indica **NEUTRALIZAÇÃO TÔNICA**. Também indica _sílaba tônica_.
 
@@ -124,11 +130,11 @@ Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica*
 
 > Prioridade Tônica: 2
 
-> Ex.: _Pendentes._
+> Ex.: l**ô**ve, d**o͡e**s, h**e͡r**, **e͡ar**th
 
-3.2) e̬ | o͜u : Circunflexo Refletido e Circ. Refl. Longo
+3.2) e̬ | o͜u : Circunflexo Refletido (e Circ. Refl. Longo)
 
-> Indica **neutralização átona**.
+> Indica **NEUTRALIZAÇÃO ÁTONA**.
 
 > O _modo moderado_ do PI _omite_ esse acento na maioria das ocasiões.
 
@@ -136,25 +142,25 @@ Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica*
 
 > Prioridade Tônica: -1 (átono)
 
-> Ex.: _Pendentes._
+> Ex.: **ô**v _(of)_, sent**e̬**nce, fam**o͜u**s, numb**e͜r**, col**o͜r**, col**o͜ur**
 
 3.3) ȯ : Ponto Acima
 
-> Indica **redução a [i-curto]**, ou seja, que a respectiva vogal é pronunciada como o “i” de “bit”. É usado apenas em vogais átonas (geralmente nas vogais “a”, “e” e “u” átonas).
+> Indica **REDUÇÃO A [i-curto]**, ou seja, que a respectiva vogal é pronunciada como o “i” de “bit”. É usado apenas em vogais átonas (geralmente nas vogais “a”, “e” e “u” átonas).
 
 > O _modo moderado_ do PI sempre _omite_ esse acento para o “e”, mas sempre o _inclui_ para o “a” e o “u” (quando vem ao caso).
 
 > Prioridade Tônica: 0 (átono)
 
-> Ex.: _Pendentes._
+> Ex.: r**ė**me̖mbe͜r, langu**ȧ**ge, mĭn**u̇**te
 
 3.4) e̊ : Anel
 
-> Indica **elisão** da vogal (vogal muda). Ou seja, indica que a vogal em questão não é pronunciada.
+> Indica **ELISÃO** da vogal (vogal muda). Ou seja, indica que a vogal em questão não é pronunciada.
 
 > Prioridade Tônica: (não pronunciado)
 
-> Ex.: _Pendentes._
+> Ex.: ĕv**e̊**ry, fr**i̊**end, pe**o̊**p͜le, b**ů**ild, Cᷤ**å**esa͜r
 
 ### 2.1. Trema e Fonemas Alternativos
 
@@ -164,7 +170,7 @@ Confira abaixo a relação entre os grafemas com trema e seus respectivos fonema
 
 \- ä ► [a-aberto] (“ah”)
 
-> Ex.: f**ä**the͜r
+> Ex.: f**ä**the͜r, s**ä**ga̬
 
 \- är, ärr ► [a-aberto rótico]* (de “p**ar**t” e “l**ar**ge”)
 
@@ -178,15 +184,15 @@ Confira abaixo a relação entre os grafemas com trema e seus respectivos fonema
 
 \- ï ► [e-longo] (de “s**ee**” , “s**ea**” e “sc**e**_ne_”)
 
-> Ex.: ma̬c̈h**ï**ne¹
+> Ex.: ma̬c̈h**ï**ne¹, röut**ï̖**ne¹
 
 \- ö, öu ► [“oo” longo] (de “l**o͝o**k” e “g**o͝o**d”)
 
-> Ex.: d**ö**, y**öu**
+> Ex.: d**ö**, m**ö**ve¹, y**öu**, gr**öu**p
 
 \- ü, ö̬ ► [“oo” curto] (de “t**oo**” e “sċh**o͞o**l”)
 
-> Ex.: p**ü**t, t**ö̬**
+> Ex.: p**ü**t, f**ü**ll, t**ö̬**
 
 ### 2.2. Neutralização
 
@@ -200,7 +206,7 @@ A neutralização pode ocorrer em sílabas tônicas (**neutralização tônica**
 
 Quando a neutralização ocorre em sílaba tônica, pode resultar em um dos dois fonemas abaixo:
 
-\- [u-curto] (também chamado de “vogal [neutra tônica]”) (de “b**ut**” e “**u**p”)
+\- **[u-curto]** (também chamado de “**vogal [neutra tônica]**”) (o “u” de de “but” e “up”)
 
   > É resultante da neutralização tônica em vogais **_sem_ a influência do “r”**.
 
@@ -208,7 +214,7 @@ Quando a neutralização ocorre em sílaba tônica, pode resultar em um dos dois
   
   > Ex. (dígrafos): d**o͡e**s, bl**o͡o**d, c**o͡u**ntry
 
-\- vogal [neutra tônica rótica]
+\- **vogal [neutra tônica rótica]**
 
   > É resultante da neutralização tônica em vogais **_com_ a influência do “r”**.
 
@@ -220,15 +226,15 @@ Quando a neutralização ocorre em sílaba tônica, pode resultar em um dos dois
 
 E quando a neutralização ocorre em sílaba átona, pode resultar em um dos dois fonemas abaixo:
 
-\- vogal [neutra átona] (também chamado de [schwa])
+\- **vogal [neutra átona]** (também chamado de [schwa])
 
   > É resultante da neutralização átona em vogais **_sem_ a influência do “r”**.
   
-  > Ex. (vogais simples): w**a̬**s, **o̬**v, **a̬**bo̖ut, sent**e̬**nce, ăn**i̬**m**a̬**l, t**o̬**da̖y, ind**u̬**stry
+  > Ex. (vogais simples): w**a̬**s, **o̬**v _(of)_, **a̬**bo̖ut, sent**e̬**nce, ăn**i̬**m**a̬**l, t**o̬**da̖y, ind**u̬**stry
   
   > Ex. (dígrafos): mount**a͜i**n, fam**o͜u**s
 
-\- vogal [neutra átona rótica]
+\- **vogal [neutra átona rótica]**
 
   > É resultante da neutralização átona em vogais **_com_ a influência do “r”**.
 
@@ -244,11 +250,11 @@ E quando a neutralização ocorre em sílaba átona, pode resultar em um dos doi
 
 > _Sessão pendente._
 
-## 4.1 Fonemas Vocálicos
+### 4.1 Fonemas Vocálicos
 
 > _Sessão pendente._
 
-## 4.2. Fonemas Consonantais
+### 4.2. Fonemas Consonantais
 
 > _Sessão pendente._
 
