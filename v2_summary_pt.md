@@ -142,7 +142,7 @@ Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica*
 
 > Prioridade Tônica: -1 (átono)
 
-> Ex.: **ô**v _(of)_, sent**e̬**nce, fam**o͜u**s, numb**e͜r**, col**o͜r**, col**o͜ur**
+> Ex.: **o̬**v _(of)_, sent**e̬**nce, fam**o͜u**s, numb**e͜r**, col**o͜r**, col**o͜ur**
 
 3.3) ȯ : Ponto Acima
 
