@@ -54,7 +54,7 @@ Aí vão eles!
 
 Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica**, os de **Distinção Fonêmica** e os de **Redução/Elisão**.
 
-> **Nota:** Caso sinta a necessidade, confira na sessão 4.1 os _fonemas vocálicos_ do inglês (de acordo com a nomenclatura PI). Nessa sessão (e em todo Método PI) fazemos menção a tais fonemas sempre usando colchetes ao redor do nome — por ex., [e-longo], [i-curto] e [“aw”].
+> **Nota:** Caso sinta a necessidade, confira na sessão 4.1 os _fonemas vocálicos_ do inglês (de acordo com a nomenclatura PI). Nessa sessão (e em todo **Método PI**) fazemos menção a tais fonemas sempre utilizando colchetes ao redor do nome — por ex., [e-longo], [i-curto] e [“aw”].
 
 **Grupo 1 - Tônica:**
 
@@ -152,7 +152,7 @@ Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica*
 
 > Prioridade Tônica: 0 (átono)
 
-> Ex.: r**ė**me̖mbe͜r, langu**ȧ**ge, mĭn**u̇**te
+> Ex.: r**ė**me̖mbe͜r, langu**ȧ**ge¹, mĭn**u̇**te¹
 
 3.4) e̊ : Anel
 
@@ -160,7 +160,7 @@ Organizamos os 10 acentos vocálicos do PI em 3 grupos: os acentos de **Tônica*
 
 > Prioridade Tônica: (não pronunciado)
 
-> Ex.: ĕv**e̊**ry, fr**i̊**end, pe**o̊**p͜le, b**ů**ild, Cᷤ**å**esa͜r
+> Ex.: ĕv**e̊**ry, fr**i̊**end, pe**o̊**p͜le¹, b**ů**ild, Cᷤ**å**esa͜r
 
 ### 2.1. Trema e Fonemas Alternativos
 
@@ -260,7 +260,7 @@ E quando a neutralização ocorre em sílaba átona, pode resultar em um dos doi
 
 ## Notas:
 
-¹ O “-e” final é **mudo** (não pronunciado). Isso é um _padrão bastante regular_ no inglês.
+¹ O “-e” final é **mudo** (não pronunciado). Isso é um _padrão bastante regular_ no inglês em palavras nas quais o “e” simples não é a única vogal presente (ex., “the”, “we”, “me”).
 
 ² Você sabia que a **redução vocálica** também é um fenômeno frequente, embora em menor grau, no _nosso português_? Temos a tendência de transformar (ou melhor dizendo, reduzir) o “-e” e “-o” de fim de palavra em “i” e “u” respectivamente. Por ex., “ele” e “carro”. No _português de Portugal_ esse fenômeno é ainda mais forte, justamente por se tratar de um dialeto com ritmo _mais tônico_ que o nosso.
 
